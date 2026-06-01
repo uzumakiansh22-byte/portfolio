@@ -9,7 +9,7 @@ A futuristic AI-inspired developer portfolio showcasing projects, technical skil
 
 ## Live Website
 
-[Portfolio Live Link](ADD_DEPLOYED_LINK_HERE)
+[https://portfolio-three-kappa-vgz78r1chp.vercel.app/#skills](ADD_DEPLOYED_LINK_HERE)
 
 ## Features
 
